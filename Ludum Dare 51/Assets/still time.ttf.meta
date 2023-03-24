@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 710a66c2cc276384b906c6f145203114
+timeCreated: 1664749454
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Still Time
+  fontNames:
+  - Still Time
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
